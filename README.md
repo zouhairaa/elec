@@ -25,8 +25,7 @@
 
 ```
 
-> 🔌 I design PCBs, simulate circuits, and obsess over signal integrity.  
-> 📐 From schematic to layout — precision is everything.  
+> 🔌 I design PCBs, simulate circuits, and obsess to learn more.    
 > 🌍 Always learning. Always building.
 
 ---
