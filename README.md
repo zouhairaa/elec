@@ -1,18 +1,11 @@
 <!-- Animated header -->
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██╗██████╗  █████╗  █████╗
-╚════██╗██╔═══██╗██║   ██║██║  ██║██╔══██╗██║██╔══██╗██╔══██╗██╔══██╗
- █████╔╝██║   ██║██║   ██║███████║███████║██║██████╔╝███████║███████║
- ╚═══██╗██║   ██║██║   ██║██╔══██║██╔══██║██║██╔══██╗██╔══██║██╔══██║
-██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║██║  ██║██║  ██║██║  ██║
-╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+
 
 ### ⚡ Electronics/Embedded Systems with RF background ⚡
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=PCB+Designer+%7C+KiCad+%2F+Altium;EMC+%26+EMI;LTSpice+Simulation+Enthusiast;Turning+schematics+into+reality+%F0%9F%94%A7)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=PCB+Design+%7C+KiCad+%2F+Altium;EMC+%26+EMI;Component+Choice;LTSpice+Simulation+Enthusiast;Turning+schematics+into+reality+%F0%9F%94%A7)
 
 ---
 
