@@ -10,7 +10,7 @@
 ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### ⚡ Electronics & PCB Design Engineer ⚡
+### ⚡ Electronics/Embedded Systems with RF background ⚡
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=PCB+Designer+%7C+KiCad+%2F+Altium;Signal+Integrity+%26+EMC+Engineer;LTSpice+Simulation+Enthusiast;Turning+schematics+into+reality+%F0%9F%94%A7)
 
@@ -26,13 +26,10 @@
 ## 🧠 About Me
 
 ```python
-engineer = {
-    "name"     : "Zouhairaa",
-    "role"     : "Junior Electronics Engineer",
-    "passion"  : ["PCB Design", "EMC/CEM", "Analog Simulation"],
-    "tools"    : ["KiCad", "Altium Designer", "LTSpice"],
-    "mindset"  : "Every great circuit starts with a great schematic ⚡"
-}
+"An expert is someone who has made all the mistakes there are to make in a very narrow field."
+— Niels Bohr
+"mindset"  : "Every great circuit starts with a great schematic. A great schematic starts with great *components!* ⚡"
+
 ```
 
 > 🔌 I design PCBs, simulate circuits, and obsess over signal integrity.  
@@ -41,7 +38,7 @@ engineer = {
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tech Stack & Tools
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
