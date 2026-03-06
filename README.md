@@ -28,7 +28,7 @@
 ```python
 "An expert is someone who has made all the mistakes there are to make in a very narrow field."
 — Niels Bohr
-    "mindset"  : "Every great circuit starts with a great schematic ⚡"
+"mindset"  : "Every great circuit starts with a great schematic. A great schematic starts with great *components!* ⚡"
 
 ```
 
