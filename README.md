@@ -46,7 +46,7 @@
 |----------|-------|
 | 🖥️ **PCB Design** | ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) |
 | 📊 **Simulation** | ![LTSpice](https://img.shields.io/badge/LTSpice-B22222?style=for-the-badge&logoColor=white) |
-| 🔬 **Analysis** | ![CEM](https://img.shields.io/badge/CEM_%2F_EMC-orange?style=for-the-badge) ![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-purple?style=for-the-badge) |
+| 🔬 **Analysis** | ![EMC/EMI](https://img.shields.io/badge/CEM_%2F_EMC-orange?style=for-the-badge) ![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-purple?style=for-the-badge) |
 | 💻 **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
