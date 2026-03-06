@@ -26,13 +26,10 @@
 ## 🧠 About Me
 
 ```python
-engineer = {
-    "name"     : "Zouhairaa",
-    "role"     : "Junior Electronics Engineer",
-    "passion"  : ["PCB Design", "EMC/CEM", "Analog Simulation"],
-    "tools"    : ["KiCad", "Altium Designer", "LTSpice"],
+"An expert is someone who has made all the mistakes there are to make in a very narrow field."
+— Niels Bohr
     "mindset"  : "Every great circuit starts with a great schematic ⚡"
-}
+
 ```
 
 > 🔌 I design PCBs, simulate circuits, and obsess over signal integrity.  
