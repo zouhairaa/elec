@@ -10,7 +10,7 @@
 ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### ⚡ Electronics/Embedded Systems with RF background ⚡
+### ⚡ Electronics & PCB Design Engineer ⚡
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=PCB+Designer+%7C+KiCad+%2F+Altium;Signal+Integrity+%26+EMC+Engineer;LTSpice+Simulation+Enthusiast;Turning+schematics+into+reality+%F0%9F%94%A7)
 
@@ -26,10 +26,13 @@
 ## 🧠 About Me
 
 ```python
-"An expert is someone who has made all the mistakes there are to make in a very narrow field."
-— Niels Bohr
-"mindset"  : "Every great circuit starts with a great schematic. A great schematic starts with great *components!* ⚡"
-
+engineer = {
+    "name"     : "Zouhairaa",
+    "role"     : "Junior Electronics Engineer",
+    "passion"  : ["PCB Design", "EMC/CEM", "Analog Simulation"],
+    "tools"    : ["KiCad", "Altium Designer", "LTSpice"],
+    "mindset"  : "Every great circuit starts with a great schematic ⚡"
+}
 ```
 
 > 🔌 I design PCBs, simulate circuits, and obsess over signal integrity.  
@@ -38,18 +41,13 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tools
 
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| 🖥️ **PCB Design** | ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) |
-| 📊 **Simulation** | ![LTSpice](https://img.shields.io/badge/LTSpice-B22222?style=for-the-badge&logoColor=white) |
-| 🔬 **Analysis** | ![EMC/EMI](https://img.shields.io/badge/CEM_%2F_EMC-orange?style=for-the-badge) ![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-purple?style=for-the-badge) |
-| 💻 **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-
-</div>
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![LTSpice](https://img.shields.io/badge/LTSpice-B22222?style=for-the-badge&logoColor=white)
+![EMC/EMI](https://img.shields.io/badge/EMC_%2F_EMI-orange?style=for-the-badge)
+![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-purple?style=for-the-badge)
 
 ---
 
