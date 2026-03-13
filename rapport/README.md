@@ -15,7 +15,7 @@
 
 ---
 
-## Experiment 1 — Line Regulation
+## Experiment 1 — Line Regulation / Voltage Regulation
 
 **Definition:** Variation of Vout when Vin changes, at constant load.
 
