@@ -295,7 +295,7 @@ Minimum recommended Vin for 5V output: **8V** (with margin).
 
 | Parameter | Value |
 | --- | --- |
-| Start voltage (on scren) | ~2.3V |
+| Start voltage (on screen) | ~2.3V |
 | Final voltage (target) | ~5V |
 | Rise time | ~10 ms |
 | Overshoot | None detected |
