@@ -9,6 +9,10 @@
 > **Equipment:** Adjustable lab power supply, multimeter, oscilloscope >200 MHz, IT8211 DC electronic load.
 > 
 
+
+![imageall.png](imageall.png)
+
+
 ---
 
 ## Experiment 1 — Line Regulation
