@@ -1,6 +1,6 @@
 # LM2596 Module Characterization - GitHub
 
-> **Goal:** Full characterization of a pre-assembled LM2596 buck converter module for publication on GitHub.
+> **Goal:** Full characterization of a pre-assembled LM2596 chinese buck converter module for publication on GitHub.
 > 
 
 > **Test conditions:** Vin = 12V nominal, Vout target = 5.00V, unless otherwise specified.
