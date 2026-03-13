@@ -96,7 +96,7 @@
 
 **Fixed conditions:** Vin = 12.00V — Iin measured via current clamp probe on oscilloscope.
 
-![WhatsApp Image 2026-03-13 at 10.44.18.jpeg](WhatsApp_Image_2026-03-13_at_10.44.18.jpeg)
+![imagesetup.jpeg](imagesetup.jpeg)
 
 ![exp3 Iout = 100mA Vout = 5V Vin = 12.png](exp3_Iout__100mA_Vout__5V_Vin__12.png)
 
