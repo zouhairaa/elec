@@ -303,8 +303,8 @@ Minimum recommended Vin for 5V output: **8V** (with margin).
 
 **Observations:**
 
-- Clean ***soft-start*** behavior — Vout rises smoothly from 0V to 5V with no overshoot or ringing.
-- Rise time of ~10 ms is typical for the LM2596 internal soft-start circuit.
+- Clean ***soft-start*** behavior — Assuming that Vout rises smoothly from 0V to 5V with no overshoot or ringing.
+- Rise time of ~10 ms (even really more here as we started from 2.3V to less than 5V, but is OK) is typical for the LM2596 internal soft-start circuit.
 - No inrush current spike detected — safe for sensitive loads.
 
 ---
