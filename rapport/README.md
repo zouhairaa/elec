@@ -1,6 +1,6 @@
 # LM2596 Module Characterization - Bench experiments
 
-> **Goal:** Full characterization of a pre-assembled LM2596 chinese buck converter module for publication on GitHub.
+> **Goal:** Full characterization of a pre-assembled LM2596 chinese buck converter module.
 > 
 
 > **Test conditions:** Vin = 12V nominal, Vout target = 5.00V, unless otherwise specified.
@@ -52,7 +52,7 @@
 - Vout rises progressively from Vin = 7V to Vin = 16V, peaks at 16V, then decreases and stabilizes from Vin = 18V onward.
 - Vout is stable at 5.054V for Vin ≥ 18V.
 - Line regulation of 1.94% is acceptable for a low-cost module (~$3). A modern high-end buck converter typically achieves < 0.5%.
-- **Do not exceed Vin = 20–25V** on this module: electrolytic capacitors are typically rated 25V or 35V.
+- **Do not exceed Vin = 20–25V** on this module: electrolytic capacitors are typically rated 25V or 35V. (Here I have a module 50V rated, always check).
 
 ---
 
@@ -309,9 +309,9 @@ Minimum recommended Vin for 5V output: **8V** (with margin).
 
 ---
 
-### Test 7d — Short-circuit behavior ⚠️
+### Conclusion : 
 
-> 🔄 *To be completed*
+> In conclusion, this module does not behave like a genuine LM2596. The measured switching frequency is only about 51.4 kHz instead of 150 kHz, and the high output ripple and slow transient response strongly support that it is a **counterfeit** module. It can still work for simple low-cost applications, but its performance is clearly below what a real LM2596 should deliver, especially above 1–1.5 A.
 > 
 
 ---
