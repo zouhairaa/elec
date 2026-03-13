@@ -311,20 +311,7 @@ Minimum recommended Vin for 5V output: **8V** (with margin).
 
 ### Conclusion : 
 
-> In conclusion, this module does not behave like a genuine LM2596. The measured switching frequency is only about 51.4 kHz instead of 150 kHz, and the high output ripple and slow transient response strongly support that it is a **counterfeit** module. It can still work for simple low-cost applications, but its performance is clearly below what a real LM2596 should deliver, especially above 1–1.5 A.
+> In conclusion, this module does not behave like a genuine LM2596. The measured switching frequency is only about 51/52 kHz instead of 150 kHz, and the high output ripple and slow transient response strongly support that it is a **counterfeit** module. It can still work for simple low-cost applications, but its performance is clearly below what a real LM2596 should deliver, especially above 1–1.5 A.
 > 
 
 ---
-
-## Theory — LM2596 Buck Converter
-
-### Key Parameters (12V → 5V, 150 kHz)
-
-- **Duty cycle:** D = Vout / Vin = 5 / 12 ≈ **41.6%**
-- **ON time:** Ton = D / f = 0.416 / 150,000 ≈ **2.77 µs**
-- **OFF time:** Toff = (1 - D) / f ≈ **3.89 µs**
-- **Switching period:** T = 1 / f = **6.67 µs**
-
-### Operating Principle
-
-During the ON phase, the internal switch closes and current flows through the inductor to the load. During the OFF phase, the freewheeling diode conducts and the inductor continues to deliver current to the load. The output capacitor smooths the residual ripple.
