@@ -1,4 +1,4 @@
-# LM2596 Module Characterization - GitHub
+# LM2596 Module Characterization - Bench experiments
 
 > **Goal:** Full characterization of a pre-assembled LM2596 chinese buck converter module for publication on GitHub.
 > 
